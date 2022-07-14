@@ -1,2 +1,2 @@
-# curriculum-vitae
+# Curriculum Vitae
 Repo contains my Curriculum Vitae
